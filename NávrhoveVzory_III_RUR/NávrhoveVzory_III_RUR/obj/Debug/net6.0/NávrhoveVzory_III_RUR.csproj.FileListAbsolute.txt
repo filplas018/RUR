@@ -1,0 +1,15 @@
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\bin\Debug\net6.0\NávrhoveVzory_III_RUR.exe
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\bin\Debug\net6.0\NávrhoveVzory_III_RUR.deps.json
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\bin\Debug\net6.0\NávrhoveVzory_III_RUR.runtimeconfig.json
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\bin\Debug\net6.0\NávrhoveVzory_III_RUR.dll
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\bin\Debug\net6.0\ref\NávrhoveVzory_III_RUR.dll
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\bin\Debug\net6.0\NávrhoveVzory_III_RUR.pdb
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\obj\Debug\net6.0\NávrhoveVzory_III_RUR.csproj.AssemblyReference.cache
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\obj\Debug\net6.0\NávrhoveVzory_III_RUR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\obj\Debug\net6.0\NávrhoveVzory_III_RUR.AssemblyInfoInputs.cache
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\obj\Debug\net6.0\NávrhoveVzory_III_RUR.AssemblyInfo.cs
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\obj\Debug\net6.0\NávrhoveVzory_III_RUR.csproj.CoreCompileInputs.cache
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\obj\Debug\net6.0\NávrhoveVzory_III_RUR.dll
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\obj\Debug\net6.0\ref\NávrhoveVzory_III_RUR.dll
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\obj\Debug\net6.0\NávrhoveVzory_III_RUR.pdb
+D:\Projekty\Visual_Studio_2022\2022_NV_3_RUR\NávrhoveVzory_III_RUR\NávrhoveVzory_III_RUR\obj\Debug\net6.0\NávrhoveVzory_III_RUR.genruntimeconfig.cache
